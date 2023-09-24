@@ -3,5 +3,5 @@ requests==2.31.0
 jsonschema==4.19.1
 allure-pytest==2.9.45
 selene>=2.0.0rc4
-webdriver-manager==4.0.0
+webdriver-manager>=3.8.6
 curlify==2.2.1
